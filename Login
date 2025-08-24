@@ -1,0 +1,14 @@
+python manage.py runserver
+
+http://127.0.0.1:8000/admin/
+Yash
+Yash@123
+
+Test1
+Test@123
+
+Cinema1
+Test@123
+
+PVR
+Yash@123
